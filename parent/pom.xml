@@ -79,7 +79,7 @@
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
         <salat.version>1.11.2</salat.version>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <test.spline.mongodb.url>mongodb://localhost/test</test.spline.mongodb.url>
         <test.spline.arangodb.url>http://localhost:8529/test</test.spline.arangodb.url>
     </properties>
